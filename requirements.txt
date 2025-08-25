@@ -3,3 +3,4 @@ langchain-openai
 langchain-community
 pytest
 streamlit
+torch
